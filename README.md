@@ -1,4 +1,4 @@
-# Classificação de Notas
+# Nota do Aluno (Classificação de Notas)
 
 **Descrição:** Este projeto é uma aplicação em Java que classifica a nota de um aluno em uma escala de graduação (`A`, `B`, `C`, `D`) e determina se o aluno foi aprovado ou reprovado. A classificação é feita com base em uma nota específica e exibe uma mensagem de resultado final.
 
